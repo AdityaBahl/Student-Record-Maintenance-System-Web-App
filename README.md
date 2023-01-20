@@ -53,6 +53,10 @@
 5. **CSS** - Used Similarly like java script.
 6. **XAMPP** - For connecting the codes to the database.
 
+## Why Academia?
+
+Academia is the name of this Student Record Maintenance System. It encompasses what I wanted to achieve out of this project when I started coding it, a tool to ease the endless record maintenance related work that teachers have to go through just because there does not exist any system good enough to replace that meaningless labour in this day and age, being a son of a chemistry teacher. And there are solutions related to this in the market, but due to high demand, their prices often run into multiple digits, thus not allowing low to medium profit schools from accessing such a vital resource in this day and age. Hence I created this solution to allow schools with little to no money to expend on a system to atleast have a decent Student Record Maintenance System, fully customizable, fully scalable, fully open-source.
+
 ## Why Student Record Maintenance System?
 
 A **student record maintenance system** is used to store, manage and track a student's academic progress throughout their time in a school or educational institution. This can include information such as grades, attendance, enrollment status, and personal information. This system allows for easy access and organization of student information, making it simpler for administrators and teachers to track student progress and make decisions about their education. Additionally, it can help with compliance with state and federal regulations regarding student records, and can provide a secure way to store sensitive information.
