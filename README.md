@@ -1,9 +1,10 @@
 # Student Record Maintenance System
 
+![White](https://user-images.githubusercontent.com/90335449/213779042-b1617302-c006-4458-b0b1-ae7b43e8e9ea.svg)
+
 ## Preview
 
 ![code](https://user-images.githubusercontent.com/90335449/213779138-d996f7ba-f2c6-4ea1-a487-8afb9332b891.png)
-![White](https://user-images.githubusercontent.com/90335449/213779042-b1617302-c006-4458-b0b1-ae7b43e8e9ea.svg)
 ![database1](https://user-images.githubusercontent.com/90335449/213779095-0b41f047-a942-4978-8bfc-7ad5765e1d86.png)
 ![2](https://user-images.githubusercontent.com/90335449/213778310-9da0336a-6b47-4061-8fc4-26cde4a75000.png)
 ![1](https://user-images.githubusercontent.com/90335449/213778370-66a23c8d-bc9e-4eef-b26f-5eff99c3e2b9.png)
