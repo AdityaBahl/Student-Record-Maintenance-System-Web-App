@@ -1,57 +1,36 @@
-# Wordle Game Using Node.js and APIs
+# Student Record Maintenance System
 
 ![image](https://github.com/AdityaBahl/Wordle-Game/blob/main/sample.png)
 
 ## Technologies Used
 
-1. **HTML**
-2. **CSS**
-3. **Vanilla JavaScript**
-4. **Node.js**
-5. **[Word Dictionary API](https://rapidapi.com/twinword/api/word-dictionary/)**
-6. **[Random Words API](https://rapidapi.com/sheharyar566/api/random-words5/)**
+1. **PHP** - For Structuring and connecting SQL based server to the web application.
+2. **SQL** - Used for creation, maintenance, storage and deletion of the database.
+3. **HTML** - Used for the texts and medias in the website.
+4. **Java Script** - Used in various components.
+5. **CSS** - Used Similarly like java script.
+6. **Bootstraps** - For visual components.
+7. **XAMPP** - For connecting the codes to the database.
 
-## Getting Started
+## Why Student Record Maintenance System?
 
-To start this project please go to **RapidAPI** to sign up for the [APIs](https://bit.ly/rapidapi-hub).
-
-### `.env`
-
-Now create a `.env` file in the root of your project with the following:
-
-```
-RAPID_API_KEY={your_rapid_api_key}
-```
-
-To run this project please type the following commands:
-
-### `npm i`
-
-This will install all the necessary dependencies.
-
-### `npm run start:backend`
-
-This will start the backend on [http://localhost:8000](http://localhost:8000).
-
-### `copy the path to your index.html file`
-
-Copy the path to this file and paste it in your browser to see the game and play.
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-## Why Wordle?
-
-**Wordle** is a web-based game that uses APIs (Application Programming Interfaces) and Node.js to provide users with a fun and interactive experience. APIs allow Wordle to access and retrieve data from external sources, such as a dictionary or thesaurus, and use that data to generate the words and challenges that players must solve. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, is used to execute the game's code and handle its server-side logic. By using APIs and Node.js, Wordle is able to provide a seamless and dynamic gaming experience for players.
+A **student record maintenance system** is used to store, manage and track a student's academic progress throughout their time in a school or educational institution. This can include information such as grades, attendance, enrollment status, and personal information. This system allows for easy access and organization of student information, making it simpler for administrators and teachers to track student progress and make decisions about their education. Additionally, it can help with compliance with state and federal regulations regarding student records, and can provide a secure way to store sensitive information.
 
 ## Algorithm
 
-1. The game generates a grid of letters and displays it to the player.
-2. The player selects a sequence of letters in the grid to form a word.
-3. The game sends a request to a dictionary API to check if the word is a valid English word.
-4. If the word is valid, the game updates the score and displays a new grid of letters to the player.
-5. If the word is not valid, the game informs the player and allows them to try again.
+A **student data maintenance system** may involve the following algorithms:
 
-This is just one possible approach to building a Wordle-like game. There are many other ways to design and implement such a game, and the specific algorithms and techniques used will depend on the desired features and functionality of the game.
+1. **Data validation algorithms:** These algorithms, written in JavaScript, can be used to ensure that the data entered into the system is accurate and consistent before it is sent to the server. They can check for things like missing fields, incorrect data formats, and duplicate records.
+
+2. **Data storage and retrieval algorithms:** The system may use MySQL for the database and PHP for the server-side scripting. These algorithms can be used to insert, update, and retrieve data from the database. The PHP scripts can be used to interact with the MySQL database, and to create the necessary SQL statements to insert, update, and retrieve data.
+
+3. **Data display algorithms:** These algorithms, written in HTML, CSS and JavaScript, can be used to display the data stored in the system in a user-friendly way. They can be used to create the layout of the website, and to control the presentation of the data.
+
+4. **Security algorithms:** These algorithms can be used to ensure that only authorized users can access the system, and that sensitive student data is protected. They can include encryption, authentication, and access control methods.
+
+5. **Reports generation algorithm:** These algorithms can be used to generate reports and statistics based on the data in the system. They could be written in PHP and SQL and be used to create the necessary SQL statements to extract data from the database and to format it in a way that is easy to read and understand.
+
+Keep in mind that these are just examples of algorithms that may be used in a student data maintenance system using these technologies, and the specific implementation would depend on the requirements and design of the system.
 
 ## Challenges and Limitations
 
