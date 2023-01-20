@@ -1,4 +1,4 @@
-# Student Record Maintenance System
+# Student Record Maintenance System (Academia)
 
 ![logo](https://user-images.githubusercontent.com/90335449/213779042-b1617302-c006-4458-b0b1-ae7b43e8e9ea.svg)
 
@@ -51,8 +51,7 @@
 3. **HTML** - Used for the texts and medias in the website.
 4. **Java Script** - Used in various components.
 5. **CSS** - Used Similarly like java script.
-6. **Bootstraps** - For visual components.
-7. **XAMPP** - For connecting the codes to the database.
+6. **XAMPP** - For connecting the codes to the database.
 
 ## Why Student Record Maintenance System?
 
