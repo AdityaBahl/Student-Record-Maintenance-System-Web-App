@@ -57,9 +57,9 @@
 
 **Academia** is the name of this **Student Record Maintenance System**. It encompasses what I wanted to achieve out of this project when I first started coding it, a tool to ease the endless record maintenance related work that teachers have to go through just because there does not exist any system viable enough to replace that meaningless labour, being a son of a chemistry teacher. And there are solutions related to this in the market, but due to high demand, their prices often run into multiple digits, thus not allowing low to medium profit schools from accessing such a vital resource in this day and age. Hence I created this solution to allow schools with little to no money to expend on a system to atleast have a decent Student Record Maintenance System, **fully customizable**, **fully scalable**, **fully open-source**.
 
-### About the Logo
+## About the Logo
 
-Custom Built on Adobe Illustrator.
+"Academia" Logo is custom Built on Adobe Illustrator with both black and white options for future possible release of dark mode.
 
 ## Why Student Record Maintenance System?
 
