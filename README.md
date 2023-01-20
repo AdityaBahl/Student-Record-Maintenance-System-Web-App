@@ -31,8 +31,17 @@
 ### Display / Delete Details
 
 ![5](https://user-images.githubusercontent.com/90335449/213778611-51aba4aa-bc42-4f88-ae77-2d3b87ea71e5.jpeg)
+
+### About Us
+
 ![3](https://user-images.githubusercontent.com/90335449/213778944-b54cb7da-b87b-40e3-9ccf-3f071dbf13ee.jpeg)
+
+### Contact Us
+
 ![4](https://user-images.githubusercontent.com/90335449/213778975-2bd40024-fbec-457c-aac2-de428f893f51.jpeg)
+
+### Suggestions
+
 ![6](https://user-images.githubusercontent.com/90335449/213778985-9ef1e87f-5fb6-401e-b87e-1fc73423f698.jpeg)
 
 ## Technologies Used
